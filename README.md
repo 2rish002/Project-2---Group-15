@@ -1,6 +1,6 @@
-# Welcome To Our Yelp Analysis Project!
+# Welcome To Our Air Quality Analysis Project!
 
-**Creators**: Aidan Wiktorowicz (Project Lead), Ananya Goel, Rishi Raghavan
+**Creators**: Ananya Goel (Project Lead), Rishi Raghavan, Aidan Wiktorowicz
 
 ## Repository Contents
 This repository is the library for all code files, figures, and media related to our project. We encourage you to explore and learn more about our project!
@@ -12,7 +12,7 @@ You'll find the following:
 4) **License.md**: Guidelines for citation of our repository.
 
 ## Software and Platform
-Microsoft Visual Studio Code (VSC) was the primary software through which our project was coded. We used the Python coding language, and the VADER package in Python was an add-on installed to perform sentiment analysis. Microsoft VSC was run on both Windows and MacOS software, aiding in versatility and accessibility of our project. 
+Microsoft Visual Studio Code (VSC) was the primary software through which our project was coded. We used the Python coding language, and the ARIMA package in Python was an add-on installed to perform prediction analysis. Microsoft VSC was run on both Windows and MacOS software, aiding in versatility and accessibility of our project. 
 
 ## Documentation Map
 **DATA**:
