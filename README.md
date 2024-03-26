@@ -2,6 +2,8 @@
 
 **Creators**: Ananya Goel (Project Lead), Rishi Raghavan, Aidan Wiktorowicz
 
+**Project Summary**: This project provides an analysis of time-series data for air quality levels in the city of St. Louis, Missouri.
+
 ## Repository Contents
 This repository is the library for all code files, figures, and media related to our project. We encourage you to explore and learn more about our project!
 You'll find the following: 
