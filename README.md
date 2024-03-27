@@ -18,24 +18,19 @@ Microsoft Visual Studio Code (VSC) was the primary software through which our pr
 
 ## Documentation Map
 **DATA**:
-- Yelpdata.csv
-- Dataset Graphic
+- Data For Project (.xlsx)
+- Heating_Cooling_Degree_Days (.xlsx)
+- TRFVOLUSM227NFWA (.csv)
+- Raw Data Folder: Contains all raw source files which were averaged to create the "Data For Project" excel sheet
 
 **SCRIPTS**:
-- Master Script File
-- P1
-- P1M13
-- Yelp_Data_ANOVA
-- Yelp_Data_Python
+- ARIMA Test (.ipynb)
+- DS_project2 (.ipynb)
 
 **OUTUT**: 
-- Anova Test Score
-- Categories Distribution
-- City Distribution
-- Mean Sentiment Scores
-- Mean Star Rating by Cuisine
-- Star Rating Distribution
-- Project 1 Presentation
+- Powerpoint Slides (Predicting St. Louis AQI)
+- Average AQI graph
+- Average Total Monthly Vehicles Traveled Graph
 
 ## Instructions for Reproducing Results
-Please download the Yelpdata set and ensure it is saved as "Yelpdata.csv". Then, download and run the Master Script File to produce the sentiment analysis output. *Note that you must change the directory from which the Yelpdata.csv file is pulled from
+Please download the dataset and ensure it is saved with the default downloaded name. Then, download and run the DS_project2 script to produce the time series analysis graphs. You may run the ARIMA Test script to get the forcasted AQI results.
